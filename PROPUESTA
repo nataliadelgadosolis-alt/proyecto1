@@ -1,0 +1,18 @@
+# Cadena Justa
+
+Equipo: 
+Alvaro Palacios
+Alejandra Guaical
+Natalia Delgado
+
+Idea: Un sistema web transaccional para la compra y venta de productos agrícolas y pesqueros.
+Usuario objetivo: productores y compradore está especialmente pensado para zonas como Tumaco y la región Pacífica, donde hay mucha producción de plátano, coco, pescado, cacao, camarón, etc.
+Problema que resuleve: 
+- Reduce mucho el riesgo de estafa o pérdida para ambas partes.
+- Permite transacciones sin que las dos personas se conozcan físicamente.
+- Da trazabilidad real del producto (útil si quieren exportar).
+- Funciona completamente desde el navegador.
+Tecnologias propuestas: 
+- Frontend: HTML, css, bootstrap
+- Backend: Nest.js
+- Base de datos: Postgres.SQL
