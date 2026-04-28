@@ -1,9 +1,9 @@
 # Cadena Justa
 
 Equipo: 
-Alvaro Andres Palacios de la Cruz
-Alejandra Guaical
-Natalia Delgado
+<br>Alvaro Andres Palacios de la Cruz
+<br>Alejandra Guaical
+<br>Natalia Delgado
 
 Idea: Un sistema web transaccional para la compra y venta de productos agrícolas y pesqueros.
 Usuario objetivo: productores y compradore está especialmente pensado para zonas como Tumaco y la región Pacífica, donde hay mucha producción de plátano, coco, pescado, cacao, camarón, etc.
