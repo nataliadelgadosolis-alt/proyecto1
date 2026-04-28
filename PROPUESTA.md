@@ -1,7 +1,7 @@
 # Cadena Justa
 
 Equipo: 
-Alvaro Palacios
+Alvaro Andres Palacios de la Cruz
 Alejandra Guaical
 Natalia Delgado
 
